@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "FOREVER-WORLD-1.aternos.me:54471",
+    "port": 54471,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "IM DIDDY",
+        "NIGAAAAAA",
+        "LET ME FUCK U"
       ]
     },
     "chat-log": true,
